@@ -6,8 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5D8AA8&random=false&width=435&height=40&lines=Hi%2C+I'm+Matheus+Bordinh%C3%A3o!+%F0%9F%91%8B%F0%9F%92%BB%F0%9F%92%99)](https://git.io/typing-svg)
 
-<p align="left">Sou um estudante de Desenvolvimento de Sistemas no Instituto Federal Sul-rio-grandense (IFSul) – Câmpus Sapucaia do Sul, com 19 anos, comprometido com a excelência e o aprendizado contínuo. Tenho grande interesse pela área de tecnologia da informação, especialmente no desenvolvimento de soluções que unam eficiência, inovação e qualidade.
-
+<p align="left">I am a Systems Development student at the Federal Institute of Education, Science and Technology of Rio Grande do Sul (IFSul) – Sapucaia do Sul Campus, 19 years old, committed to excellence and continuous learning. I have a strong interest in the field of information technology, especially in developing solutions that combine efficiency, innovation, and quality.
 
 
 <h3 align="left">Connect with me!</h3>
