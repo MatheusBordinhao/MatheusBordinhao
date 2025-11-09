@@ -41,12 +41,26 @@
   <img 
        src="https://github-readme-stats.vercel.app/api?username=MatheusBordinhao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=pt-br&hide_border=true&order=1" 
        height="140" 
-  />
+
+
+
+<a href="#" title="thanhtin4401">
+    <img align="left" width="320" src="https://github-readme-stats.vercel.app/api?username=MatheusBordinhao&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
+
+
+/>
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusBordinhao&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=city_lights&hide_border=true&order=2" 
        height="220" 
   />
 </div>
+
+
+
+
+
 
 <!-- Portfolio -->
 ## Portfolio:
