@@ -35,31 +35,25 @@
 </div>
 
 
-<h3 align="left">GitHub Stats</h3>
+<h3>GitHub Stats</h3>
 
-<div align="left">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=MatheusBordinhao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=pt-br&hide_border=true&order=1" 
-       height="140" 
+<div style="display: flex; gap: 0; margin: 0; padding: 0;">
+  <a href="https://github.com/MatheusBordinhao" title="GitHub Stats" style="margin: 0; padding: 0;">
+    <img
+      width="390"
+      src="https://github-readme-stats.vercel.app/api?username=MatheusBordinhao&show_icons=true&theme=react&hide_border=true&border_radius=10"
+      style="display: block; margin: 0; padding: 0; border: none;"
+    />
+  </a>
 
-
-
-<a href="#" title="thanhtin4401">
-    <img align="left" width="320" src="https://github-readme-stats.vercel.app/api?username=MatheusBordinhao&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="https://github.com/MatheusBordinhao" title="Top Languages" style="margin: 0; padding: 0;">
+    <img
+      width="350"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBordinhao&layout=compact&langs_count=6&theme=react&hide_border=true&border_radius=10"
+      style="display: block; margin: 0; padding: 0; border: none;"
+    />
   </a>
 </div>
-
-
-/>
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusBordinhao&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=city_lights&hide_border=true&order=2" 
-       height="220" 
-  />
-</div>
-
-
-
-
 
 
 <!-- Portfolio -->
