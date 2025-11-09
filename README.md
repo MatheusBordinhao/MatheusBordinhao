@@ -4,7 +4,7 @@
 
 <div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5D8AA8&random=false&width=435&height=40&lines=Hi%2C+I'm+Matheus+Bordinh%C3%A3o!+%F0%9F%91%8B%F0%9F%92%BB%F0%9F%92%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF78&random=false&width=435&height=40&lines=Hi%2C+I'm+Matheus+Bordinh%C3%A3o!+%F0%9F%91%8B%F0%9F%92%BB%F0%9F%92%99)](https://git.io/typing-svg)
 
 <p align="left">I am a Systems Development student at the Federal Institute of Education, Science and Technology of Rio Grande do Sul (IFSul) – Sapucaia do Sul Campus, 19 years old, committed to excellence and continuous learning. I have a strong interest in the field of information technology, especially in developing solutions that combine efficiency, innovation, and quality.
 
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me!</h3>
 
 [![Email](https://img.shields.io/badge/Email-5D8AA8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusbordinhao11@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5D8AA8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=5D8AA8)](https://www.linkedin.com/in/matheus-bordinhão-004a75285/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5D8AA8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=36BCF7)](https://www.linkedin.com/in/matheus-bordinhão-004a75285/)
 [![Instagram](https://img.shields.io/badge/Instagram-5D8AA8?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bordinhaoo)
 
 <h3 align="left">My Skills</h3>
@@ -52,3 +52,6 @@
 ## Portfolio:
 - [AguiaWeb](https://github.com/MatheusBordinhao/AguiaWeb)
 
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
