@@ -6,7 +6,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF78&random=false&width=435&height=40&lines=Hi%2C+I'm+Matheus+Bordinh%C3%A3o!+%F0%9F%91%8B%F0%9F%92%BB%F0%9F%92%99)](https://git.io/typing-svg)
 
-<p align="left">I am a Systems Development student at the Federal Institute of Education, Science and Technology of Rio Grande do Sul (IFSul) – Sapucaia do Sul Campus, 19 years old, committed to excellence and continuous learning. I have a strong interest in the field of information technology, especially in developing solutions that combine efficiency, innovation, and quality.
+<p align="left">I currently work as a Software Developer Intern at D9ti and I am pursuing a degree in Computer Science at Unisinos. I am an early-career professional, committed to continuous learning and to delivering efficient, high-quality technological solutions.
+
+I have a strong interest in the Information Technology field, especially in software development, where I seek to apply best practices, programming logic, and innovation to solve real-world problems. I hold a technical degree in Systems Development from the Federal Institute of Sul-rio-grandense (IFSul) – Sapucaia do Sul Campus, an experience that significantly contributed to building my technical and professional foundation.
+
+I am constantly striving to improve my skills, add value to the projects I work on, and contribute positively to the company’s goals, always with proactivity, responsibility, and a strong willingness to learn.
 
 
 <h3 align="left">Connect with me!</h3>
