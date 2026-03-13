@@ -41,28 +41,27 @@ I am constantly striving to improve my skills, add value to the projects I work 
 
 <h3>GitHub Stats</h3>
 
-<div style="display: flex; gap: 0; margin: 0; padding: 0;">
-  <a href="https://github.com/MatheusBordinhao" title="GitHub Stats" style="margin: 0; padding: 0;">
+<div style="display: flex; align-items: stretch; gap: 0;">
+
+  <a href="https://github.com/MatheusBordinhao">
     <img
-      width="390"
-      src="https://github-readme-stats.vercel.app/api?username=MatheusBordinhao&show_icons=true&theme=react&hide_border=true&border_radius=10"
-      style="display: block; margin: 0; padding: 0; border: none;"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBordinhao&layout=compact&langs_count=6&theme=react&hide_border=true&border_radius=10"
     />
   </a>
 
-  <a href="https://github.com/MatheusBordinhao" title="Top Languages" style="margin: 0; padding: 0;">
+  <a href="https://github.com/MatheusBordinhao">
     <img
-      width="350"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBordinhao&layout=compact&langs_count=6&theme=react&hide_border=true&border_radius=10"
-      style="display: block; margin: 0; padding: 0; border: none;"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=MatheusBordinhao&show_icons=true&theme=react&hide_border=true&border_radius=10"
     />
   </a>
+
 </div>
 
 
-<!-- Portfolio -->
 ## Portfolio:
-- [AguiaWeb](https://github.com/MatheusBordinhao/AguiaWeb)
+- [matheusbordinhão.dev](https://matheusbordinhao.vercel.app/)
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
