@@ -63,18 +63,18 @@ I am constantly striving to improve my skills, add value to the projects I work 
 <div style="display: flex; align-items: stretch; gap: 0;">
 
   <a href="https://github.com/MatheusBordinhao">
-    <img
-      height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBordinhao&layout=compact&langs_count=6&theme=react&hide_border=true&border_radius=10"
-    />
-  </a>
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBordinhao&layout=compact&langs_count=6&theme=react&hide_border=true&border_radius=10&count_private=true"
+  />
+</a>
 
-  <a href="https://github.com/MatheusBordinhao">
-    <img
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=MatheusBordinhao&show_icons=true&theme=react&hide_border=true&border_radius=10"
-    />
-  </a>
+<a href="https://github.com/MatheusBordinhao">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=MatheusBordinhao&show_icons=true&theme=react&hide_border=true&border_radius=10&count_private=true"
+  />
+</a>
 
 </div>
 
